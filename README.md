@@ -1,5 +1,13 @@
 # 🎓 Student Management System
 
+
+
+![Java](https://img.shields.io/badge/Java--orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot--green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Deployed-blue)
+![Render](https://img.shields.io/badge/Render-Live-success)
+
 A full-stack Student Management System built using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, and Spring Security.
 
 ## 🚀 Live Demo
