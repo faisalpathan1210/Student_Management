@@ -1,52 +1,67 @@
-# 🎓 StudentHub - Student Management System
+# 🎓 Student Management System
 
-A modern Student Management System built using Java ,Spring Boot, Spring Security, Thymeleaf, Hibernate, and MySQL.
+A full-stack Student Management System built using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, and Spring Security.
+
+## 🚀 Live Demo
+
+https://student-management-euzx.onrender.com
 
 ## ✨ Features
 
-- 🔐 Secure Login Authentication
-- 👨‍🎓 Student CRUD Operations
-- 🔍 Search Students
-- 📄 Pagination
-- ↕️ Sorting
-- ✅ Form Validation
-- ⚠️ Custom Error Handling
-- 📱 Responsive UI
-- 🎨 Modern Glassmorphism Design
+- Student Registration
+- Update Student Details
+- Delete Student
+- View Student Information
+- Search Students
+- Pagination
+- Dashboard Statistics
+- Spring Security Login
+- Form Validation
+- Responsive UI
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
-- Java
+- Java 
 - Spring Boot
-- Spring MVC
-- Spring Security
 - Spring Data JPA
 - Hibernate
+- Spring Security
 
 ### Frontend
 - Thymeleaf
-- Bootstrap 5
-- Bootstrap Icons
 - HTML
 - CSS
+- Bootstrap
 
 ### Database
 - MySQL
 
-## 📂 Modules
-
-- Dashboard
-- Login
-- Add Student
-- Edit Student
-- View Student
-- Student List
-- Error Page
+### Deployment
+- Docker
+- Render
 
 
 
-## 👨‍💻 Developer
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/faisalpathan1210/Student_Management.git
+```
+
+Configure your database in:
+
+```
+src/main/resources/application.properties
+```
+
+Run:
+
+```bash
+mvn spring-boot:run
+```
+
+## 👨‍💻 Author
 
 **Faisalkhan Pathan**
 
