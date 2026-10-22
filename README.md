@@ -10,9 +10,6 @@
 
 A full-stack Student Management System built using Java, Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, MySQL, and Spring Security.
 
-## 🚀 Live Demo
-
-https://student-management-euzx.onrender.com
 
 ## ✨ Features
 
@@ -45,9 +42,23 @@ https://student-management-euzx.onrender.com
 ### Database
 - MySQL
 
-### Deployment
-- Docker
-- Render
+
+## Student Hub – Screenshots
+
+### Login
+![Login](Screenshots/login.png.png)
+
+### Home Page
+![Student Hub Home Page](Screenshots/dashboard.png.png)
+
+### Add Student
+![Add Student](Screenshots/add.png.png)
+
+### Student List
+![Student List](Screenshots/view.png.png)
+
+
+
 
 
 
