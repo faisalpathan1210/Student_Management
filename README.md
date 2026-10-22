@@ -49,13 +49,13 @@ A full-stack Student Management System built using Java, Spring Boot, Spring Dat
 ![Login](Screenshots/login.png)
 
 ### Home Page
-![Student Hub Home Page](Screenshots/dashboard.png.png)
+![Student Hub Home Page](Screenshots/dashboard.png)
 
 ### Add Student
 ![Add Student](Screenshots/add.png)
 
 ### Student List
-![Student List](Screenshots/view.png.png)
+![Student List](Screenshots/view.png)
 
 
 
