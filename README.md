@@ -46,7 +46,7 @@ A full-stack Student Management System built using Java, Spring Boot, Spring Dat
 ## Student Hub – Screenshots
 
 ### Login
-![Login](Screenshots/login.png.png)
+![Login](Screenshots/login.png)
 
 ### Home Page
 ![Student Hub Home Page](Screenshots/dashboard.png.png)
